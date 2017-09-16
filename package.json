@@ -1,6 +1,6 @@
 {
   "name": "@lernejaro/logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple logger module",
   "main": "./bundles/logger.umd.js",
   "module": "./logger.es5.js",
